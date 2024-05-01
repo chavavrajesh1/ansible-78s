@@ -20,7 +20,7 @@
   hosts: localhost
   vars:
     my_dict:
-      Courses: Ansible
+      Course: Ansible
       Trainer: Sivakumar
       Duration: 120hr
     tasks:
